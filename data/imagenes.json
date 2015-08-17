@@ -1,0 +1,32 @@
+var imgs = [
+	{
+		"nombre": "El Cuervo",
+		"location": "imgs/ElCuervo.jpg",
+		"artstationUrl": "https://www.artstation.com/artwork/the-raven-edgar-allan-poe",
+		"modalId": "img1"
+	},
+	{
+		"nombre": "Atenea",
+		"location": "imgs/Atenea.jpg",
+		"artstationUrl": "https://www.artstation.com/artwork/atenea",
+		"modalId": "img2"
+	},
+	{
+		"nombre": "Letra Steampunk",
+		"location": "imgs/Letra-Steampunk.jpg",
+		"artstationUrl": "https://www.artstation.com/artwork/steampunk-letter",
+		"modalId": "img3"
+	},
+	{
+		"nombre": "Stoicism",
+		"location": "imgs/Stoicism.jpg",
+		"artstationUrl": "https://www.artstation.com/artwork/stoicism-sage-1be45afc-0af3-4a3a-ac6b-7f2db8133826",
+		"modalId": "img4"
+	},
+	{
+		"nombre": "Dead Gaze",
+		"location": "imgs/DeadGaze.jpg",
+		"artstationUrl": "https://www.artstation.com/artwork/stoicism-sage",
+		"modalId": "img5"
+	}
+]
